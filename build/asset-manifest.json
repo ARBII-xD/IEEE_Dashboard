@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/IEEE_Dashboard/static/css/main.4aafd473.chunk.css",
+    "main.js": "/IEEE_Dashboard/static/js/main.e5363390.chunk.js",
+    "main.js.map": "/IEEE_Dashboard/static/js/main.e5363390.chunk.js.map",
+    "runtime-main.js": "/IEEE_Dashboard/static/js/runtime-main.47a23080.js",
+    "runtime-main.js.map": "/IEEE_Dashboard/static/js/runtime-main.47a23080.js.map",
+    "static/css/2.39e895a8.chunk.css": "/IEEE_Dashboard/static/css/2.39e895a8.chunk.css",
+    "static/js/2.408a57c7.chunk.js": "/IEEE_Dashboard/static/js/2.408a57c7.chunk.js",
+    "static/js/2.408a57c7.chunk.js.map": "/IEEE_Dashboard/static/js/2.408a57c7.chunk.js.map",
+    "index.html": "/IEEE_Dashboard/index.html",
+    "static/css/2.39e895a8.chunk.css.map": "/IEEE_Dashboard/static/css/2.39e895a8.chunk.css.map",
+    "static/css/main.4aafd473.chunk.css.map": "/IEEE_Dashboard/static/css/main.4aafd473.chunk.css.map",
+    "static/js/2.408a57c7.chunk.js.LICENSE.txt": "/IEEE_Dashboard/static/js/2.408a57c7.chunk.js.LICENSE.txt",
+    "static/js/main.e5363390.chunk.js.LICENSE.txt": "/IEEE_Dashboard/static/js/main.e5363390.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/IEEE_Dashboard/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/face-3.jpg": "/IEEE_Dashboard/static/media/face-3.62232de2.jpg",
+    "static/media/light-bootstrap-dashboard-react.scss?v=2.0.0": "/IEEE_Dashboard/static/media/nucleo-icons.e8827b8a.svg",
+    "static/media/photo-1431578500526-4d9613015464.jpeg": "/IEEE_Dashboard/static/media/photo-1431578500526-4d9613015464.0c528dc7.jpeg",
+    "static/media/reactlogo.55f6660b.png": "/IEEE_Dashboard/static/media/reactlogo.55f6660b.png",
+    "static/media/sidebar-1.2ea74e53.jpg": "/IEEE_Dashboard/static/media/sidebar-1.2ea74e53.jpg",
+    "static/media/sidebar-2.00b17713.jpg": "/IEEE_Dashboard/static/media/sidebar-2.00b17713.jpg",
+    "static/media/sidebar-3.9992d0ce.jpg": "/IEEE_Dashboard/static/media/sidebar-3.9992d0ce.jpg",
+    "static/media/sidebar-4.b7eb4d1b.jpg": "/IEEE_Dashboard/static/media/sidebar-4.b7eb4d1b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47a23080.js",
+    "static/css/2.39e895a8.chunk.css",
+    "static/js/2.408a57c7.chunk.js",
+    "static/css/main.4aafd473.chunk.css",
+    "static/js/main.e5363390.chunk.js"
+  ]
+}
